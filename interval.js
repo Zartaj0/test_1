@@ -1,4 +1,5 @@
 var t=0
+const name = "ZARTAJ";
 
 setInterval( ()=>{
     if (t<2000) {
